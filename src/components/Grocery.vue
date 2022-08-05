@@ -36,9 +36,14 @@ export default {
 .section{
     margin-top: 5%;
     margin-bottom: 10%;
+    position: fixed;
+    margin-left: 30%;
 }
 button{
     /* padding-left: 20px; */
     margin-left: 10px;
+}
+h2{
+    margin-left: 70%;
 }
 </style>

@@ -39,7 +39,7 @@ nav {
   padding: 30px;
   position: fixed;
   top: 0;
-  background-color: rgba(255, 255, 255, 0.642);
+  /* background-color: rgba(255, 255, 255, 0.642); */
 }
 
 nav a {
