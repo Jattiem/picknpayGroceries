@@ -88,5 +88,7 @@ export default {
     margin-left: 7%;
     position: fixed;
   }
-
+.container{
+  margin-top: 30px;
+}
 </style>
